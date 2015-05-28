@@ -38,8 +38,9 @@ time aside to help each other get started.
 
 ## Schedule
 
- time | topic
---------------
+
+ time                  | topic
+-----------------------|---------------------
 9:30am -- 11:30am      | command line basics 
 12:00pm -- 1:00pm      | catered lunch       
 1:00pm - 2:00 pm       | pandoc + markdown   
