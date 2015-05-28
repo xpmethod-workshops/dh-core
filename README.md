@@ -21,14 +21,34 @@ Install the following:
 - [Babun](http://babun.github.io/)(Windows only)
 - Latex (BasicTeX for Mac, MiKTeX for Windows, TeX Live for Linux)
 
-Create accounts on:
+Create an account on:
 
 - [GitHub](https://github.com)
-- [Amazon Web Services](http://aws.amazon.com/)
 
 Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
 
+## Cornerstones
+
+- Command line
+- Markdown
+- Pandoc
+- GitHub
+- AWS (time-permitting)
+
 ## Schedule
+
+|-------------------|---------------------|
+| 9:30am -- 11:30am | command line basics |
+|-------------------|---------------------|
+| 12:00pm -- 1:00pm | catered lunch       |
+|-------------------|---------------------|
+| 1:00pm - 2:00 pm  | pandoc + markdown   |
+|-------------------|---------------------|
+| 2:00pm - 4:00 pm  | Git                 |
+|-------------------|---------------------|
+| flex              | advanced CLI        |
+| (time permitting) |                     |
+|-------------------|---------------------|
 
 ## Resources
