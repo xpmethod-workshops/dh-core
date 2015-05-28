@@ -32,9 +32,8 @@ time aside to help each other get started.
 
 
 ## Philosophy*
-
-<sub>*inspired by Ken Thompson and [Doug
-McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)
+<sup>*inspired by Ken Thompson and [Doug
+McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 
 
