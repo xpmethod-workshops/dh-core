@@ -19,3 +19,8 @@ Install the following:
 - [Pandoc](http://pandoc.org/installing.html)
 - [Git](https://help.github.com/articles/set-up-git/)
 - [Babun](http://babun.github.io/)(Windows only)
+
+Create accounts on:
+
+- [GitHub](https://github.com)
+- [Amazon Web Services](http://aws.amazon.com/)
