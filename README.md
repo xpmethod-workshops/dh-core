@@ -11,7 +11,7 @@ in the humanities. We'll begin with the basics of files and operating systems,
 plain text and binary formats, plain text, markdown, and rudimentary text
 analysis using native command line tools.
 
-## What to do to prepre?
+## What to do to prepare?
 
 Install the following:
 
