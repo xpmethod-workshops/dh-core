@@ -3,7 +3,7 @@ title: "DH Core Skills and Foundations"
 where: "NYU Bobst Library, Room 619"
 when: "May 29th 2015, 9:30am--4pm"
 who: "Dennis Tenen (Columbia)"
-
+contact: "@dennistenen | denten.plaintext.in"
 ---
 
 In this workshop we will cover the foundations of critical computing practice
