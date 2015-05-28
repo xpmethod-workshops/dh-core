@@ -24,3 +24,6 @@ Create accounts on:
 
 - [GitHub](https://github.com)
 - [Amazon Web Services](http://aws.amazon.com/)
+
+Don't worry if you cannot get something to install properly. We will set some
+time aside to help each other get started.
