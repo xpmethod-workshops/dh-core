@@ -1,6 +1,6 @@
 ---
 title: "DH Core Skills and Foundations"
-where: "Bobst Library, New York University"
+where: "NYU Bobst Library, Room 619"
 when: "May 29th 2015, 9:30am--4pm"
 who: "Dennis Tenen (Columbia)"
 
@@ -19,6 +19,7 @@ Install the following:
 - [Pandoc](http://pandoc.org/installing.html)
 - [Git](https://help.github.com/articles/set-up-git/)
 - [Babun](http://babun.github.io/)(Windows only)
+- Latex (BasicTeX for Mac, MiKTeX for Windows, TeX Live for Linux)
 
 Create accounts on:
 
@@ -27,3 +28,7 @@ Create accounts on:
 
 Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
+
+## Schedule
+
+## Resources
