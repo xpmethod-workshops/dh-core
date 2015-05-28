@@ -38,16 +38,12 @@ time aside to help each other get started.
 
 ## Schedule
 
-| 9:30am -- 11:30am | command line basics |
-|||
-| 12:00pm -- 1:00pm | catered lunch       |
-|||
-| 1:00pm - 2:00 pm  | pandoc + markdown   |
-|||
-| 2:00pm - 4:00 pm  | Git                 |
-|||
-| flex              | advanced CLI        |
-| (time permitting) |                     |
-|||
+ time | topic
+--------------
+9:30am -- 11:30am      | command line basics 
+12:00pm -- 1:00pm      | catered lunch       
+1:00pm - 2:00 pm       | pandoc + markdown   
+2:00pm - 4:00 pm       | Git                 
+flex (time permitting) | advanced CLI        
 
 ## Resources
