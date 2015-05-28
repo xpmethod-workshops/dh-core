@@ -15,7 +15,7 @@ analysis using native command line tools.
 
 Install the following:
 
-- [Plain Text Editor](http://www.sublimetext.com/2)
+- A [plain text editor](http://www.sublimetext.com/2)
 - [Pandoc](http://pandoc.org/installing.html)
 - [Git](https://help.github.com/articles/set-up-git/)
 - [Babun](http://babun.github.io/)(Windows only)
