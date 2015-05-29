@@ -64,10 +64,11 @@ Asterisk indicates topics covered today.
 - [OS & command line](https://github.com/denten/dhnotes/wiki/cli-basics)\*
 - [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
 - [Version control](https://github.com/denten/dhnotes/wiki/github-workflow) (Git + GitHub)\*
+- Content management (Jekyll or Wordpress)
 - Networking
 - System administration (AWS + Linux)
 - Programming language (Python)
-- Proejct management
+- Project management
 - Stats + algorithms (for data science)
 
 ## Schedule
