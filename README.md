@@ -76,7 +76,7 @@ Asterisk indicates topics covered today.
 
  time                  | topic
 -----------------------|---------------------
-9:30am -- 11:30am      | [os & command line basics](https://github.com/denten/dhnotes/wiki/cli-basics)
+9:30am -- 11:30am      | [os & command line basics](https://github.com/denten/dhnotes/blob/master/cli-basics.md)
 12:00pm -- 1:00pm      | catered lunch
 1:00pm -- 2:00 pm      | [pandoc + markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 2:00pm -- 4:00 pm      | [Git + GitHub](https://github.com/denten/dhnotes/wiki/github-workflow)
