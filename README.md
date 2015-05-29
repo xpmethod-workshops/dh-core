@@ -47,9 +47,15 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 Asterisk indicates topics covered today.
 
-- Command line (bash)\
-- Plain Text (Markdown + Pandoc)\*
-- Version Control (Git + GitHub)\*
+- [Command
+  line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md
+(bash)\*
+- [Plain
+  Text](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
+(Markdown + Pandoc)\*
+- [Version
+  Control](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
+(Git + GitHub)\*
 - Networking
 - System Administration (AWS + Linux)
 - Programming Language (Python)
