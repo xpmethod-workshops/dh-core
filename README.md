@@ -3,6 +3,7 @@ title: "DH Core Skills and Foundations"
 where: "NYU Bobst Library, Room 619"
 when: "May 29th 2015, 9:30am--4pm"
 who: "Dennis Tenen (Columbia)"
+
 ---
 
 In this workshop we will cover the foundations of critical computing practice
@@ -11,7 +12,7 @@ plain text and binary formats, plain text, markdown, and rudimentary text
 analysis using native command line tools.
 
 Stay in touch: [@dennistenen](https://twitter.com/dennistenen),
-[http://xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html)
+[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html)
 
 ## What to do to prepare?
 
@@ -30,17 +31,17 @@ Create an account on:
 Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
 
-
 ## Philosophy\*
 <sup>*inspired by Ken Thompson and [Doug
 McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 - No black boxes!
-- Use small, simple, elegant, and powerful tools that you can hack and
+- Use few, small, simple, universal, and powerful tools that you can hack and
   understand.
-- Wherever possible use human-readable text streams.
-- Your
-
+- Wherever possible store data in human-readable text streams.
+- If you have to do something more than ~~once~~ a hundred times, automate.
+- Divide big problems into small, modular components.
+- Get help and help others.
 
 ## Cornerstones
 
@@ -70,6 +71,7 @@ flex (time permitting) | advanced CLI
 - [StackOverflow](http://stackoverflow.com/)
 - [Sustainable Authorship in Plain Text using Pandoc and
 Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.html)
+- [DH Notes](https://github.com/denten/dhnotes/wiki)
 - [Pro Git Book](https://progit.org/)
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
