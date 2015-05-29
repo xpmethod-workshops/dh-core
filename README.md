@@ -61,8 +61,7 @@ experience and lead to more advanced applications.</sub>
 
 Asterisk indicates topics covered today.
 
-- [OS and command line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
-(bash)\*
+- [OS and command line](https://github.com/denten/dhnotes/wiki/cli-basics)\*
 - [Plain Text](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
 (Markdown + Pandoc)\*
 - [Version control](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
@@ -78,7 +77,7 @@ Asterisk indicates topics covered today.
 
  time                  | topic
 -----------------------|---------------------
-9:30am -- 11:30am      | [os and command line basics](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
+9:30am -- 11:30am      | [os and command line basics](https://github.com/denten/dhnotes/wiki/cli-basics)
 12:00pm -- 1:00pm      | catered lunch
 1:00pm - 2:00 pm       | [pandoc + markdown](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
 2:00pm - 4:00 pm       | [Git + GitHub](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
