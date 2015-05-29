@@ -17,7 +17,7 @@ Visit in person at [Columbia
 English](http://english.columbia.edu/people/profile/453) or
 [xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html). Follow on
 [@dennistenen](https://twitter.com/dennistenen) and star/watch the repos on
-GitHub (upper right)!
+GitHub (upper right).
 
 ## What to do to prepare?
 
