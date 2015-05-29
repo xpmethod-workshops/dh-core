@@ -50,8 +50,8 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - Get help and help others.
 
 <sub>† Because you need to understand what you are automating well.</sub>  
-<sub>‡</sub>This means investing time into skills that scale with your
-experience and lead to more advanced applications.
+<sub>‡ This means investing time into skills that scale with your
+experience and lead to more advanced applications.</sub>
 
 ## Cornerstones for DH
 
