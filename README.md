@@ -49,7 +49,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - Bootstrap and time well spent.<sup>‡</sup>
 - Get help and help others.
 
-<sub>† Because you need to understand what you are automating well.</sub>  
+<sub>† Because you need to understand what you are automating, well.</sub>  
 <sub>‡ This means investing time into skills that scale with your
 experience and lead to more advanced applications.</sub>
 
@@ -74,11 +74,11 @@ Asterisk indicates topics covered today.
 
  time                  | topic
 -----------------------|---------------------
-9:30am -- 11:30am      | command line basics 
-12:00pm -- 1:00pm      | catered lunch       
-1:00pm - 2:00 pm       | pandoc + markdown   
-2:00pm - 4:00 pm       | Git + GitHub        
-flex (time permitting) | advanced CLI        
+9:30am -- 11:30am      | [command line basics](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
+12:00pm -- 1:00pm      | catered lunch
+1:00pm - 2:00 pm       | [pandoc + markdown](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
+2:00pm - 4:00 pm       | [Git + GitHub](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
+flex (time permitting) | advanced CLI
 
 ## Resources
 
