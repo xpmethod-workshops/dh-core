@@ -43,13 +43,14 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - Use few, small, simple, universal, and powerful tools that you can hack and
   understand.
 - Wherever possible store data in human-readable text streams.
-- Do it right. Doing it badly accumulates intellectual, technological, and ethical
-  debt.
+- Do it right. Doing it badly accumulates intellectual, technological, and
+  ethical debt.
 - If you have to do something more than ~~once~~ a hundred times,<sup>†</sup>
   automate.
 - Divide big problems into small, modular components.
 - Bootstrap and time well spent.<sup>‡</sup>
-- Keep poking, get help, take notes, comment, annotate, share, remix, and train others.
+- Keep poking, get help, take notes, comment, annotate, share, remix, and train
+  others.
 
 <sub>† Because you need to understand what you are automating, well.</sub>  
 <sub>‡ This means investing time into skills that scale with your
@@ -86,10 +87,10 @@ flex (time permitting) | advanced CLI
 
 - [StackOverflow](http://stackoverflow.com/)
 - [Unix for Poets](http://doc.cat-v.org/unix/for-poets/)
-- [Sustainable Authorship in Plain Text using Pandoc and
-Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.html)
+- [Sustainable Authorship in Plain Text using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.html)
 - [DH Notes](https://github.com/denten/dhnotes/wiki)
 - [Pro Git Book](https://progit.org/)
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
+- [Package Control](https://packagecontrol.io/) for Sublime
