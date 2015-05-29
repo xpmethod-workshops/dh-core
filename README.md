@@ -80,6 +80,7 @@ flex (time permitting) | advanced CLI
 ## Resources
 
 - [StackOverflow](http://stackoverflow.com/)
+- [Unix for Poets](http://doc.cat-v.org/unix/for-poets/)
 - [Sustainable Authorship in Plain Text using Pandoc and
 Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.html)
 - [DH Notes](https://github.com/denten/dhnotes/wiki)
