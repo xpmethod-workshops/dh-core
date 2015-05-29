@@ -43,11 +43,13 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - Use few, small, simple, universal, and powerful tools that you can hack and
   understand.
 - Wherever possible store data in human-readable text streams.
+- Do it right. Doing it badly accumulates intellectual, technological, and ethical
+  debt.
 - If you have to do something more than ~~once~~ a hundred times,<sup>†</sup>
   automate.
 - Divide big problems into small, modular components.
 - Bootstrap and time well spent.<sup>‡</sup>
-- Get help and help others.
+- Keep poking, get help, take notes, comment, annotate, share, remix, train others.
 
 <sub>† Because you need to understand what you are automating, well.</sub>  
 <sub>‡ This means investing time into skills that scale with your
