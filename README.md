@@ -32,7 +32,7 @@ Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
 
 ## Philosophy\*
-<sup>*inspired by Ken Thompson and [Doug
+<sup>*inspired by [Ken Thompson and Doug
 McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 - No black boxes!
@@ -43,7 +43,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - Divide big problems into small, modular components.
 - Get help and help others.
 
-## Cornerstones
+## Cornerstones for DH
 
 Asterisk indicates topics covered today.
 
@@ -53,6 +53,7 @@ Asterisk indicates topics covered today.
 - Networking
 - System Administration (AWS + Linux)
 - Programming Language (Python)
+- Proejct Management
 - Stats + algorithms (for data science)
 
 ## Schedule
