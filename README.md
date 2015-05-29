@@ -58,7 +58,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 <sub>‡ This means investing time into skills that scale with your
 experience and lead to more advanced applications.</sub>
 
-## Cornerstones for DH
+## DH Cornerstones
 
 Asterisk indicates topics covered today.
 
