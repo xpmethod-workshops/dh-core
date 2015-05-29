@@ -16,7 +16,7 @@ analysis using native command line tools.
 [Columbia English](http://english.columbia.edu/people/profile/453) >>
 [xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html) >>
 [denten.plaintext.in](http://denten.plaintext.in/strains.html) >>
-[@dennistenen](https://twitter.com/dennistenen)
+[@dennistenen](https://twitter.com/dennistenen) >> stay in touch!
 
 ## What to do to prepare?
 
