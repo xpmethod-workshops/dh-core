@@ -13,10 +13,10 @@ analysis using native command line tools.
 
 ## About Me
 
-[Columbia English](http://english.columbia.edu/people/profile/453),
-[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html),
-[denten.plaintext.in](http://denten.plaintext.in/strains.html),
-[@dennistenen](https://twitter.com/dennistenen).
+[Columbia English](http://english.columbia.edu/people/profile/453) >>
+[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html) >>
+[denten.plaintext.in](http://denten.plaintext.in/strains.html) >>
+[@dennistenen](https://twitter.com/dennistenen)
 
 ## What to do to prepare?
 
