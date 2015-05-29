@@ -11,7 +11,7 @@ in the humanities. We'll begin with the basics of files and operating systems,
 plain text and binary formats, plain text, markdown, and rudimentary text
 analysis using native command line tools.
 
-## About Me
+## About me
 
 [Columbia English](http://english.columbia.edu/people/profile/453) >>
 [xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html) >>
@@ -35,7 +35,7 @@ Create an account on:
 Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
 
-## Philosophy\*
+## Philosophy for {critical | minimal | empowered | humanities} computing\*
 <sup>*inspired by [Ken Thompson and Doug
 McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
