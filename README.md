@@ -31,19 +31,28 @@ Don't worry if you cannot get something to install properly. We will set some
 time aside to help each other get started.
 
 
-## Philosophy*
+## Philosophy\*
 <sup>*inspired by Ken Thompson and [Doug
 McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
+- No black boxes!
+- Use small, simple, elegant, and powerful tools that you can hack and
+  understand.
+- Wherever possible use human-readable text streams.
+- Your
 
 
 ## Cornerstones
 
-- Command line (bash)
-- Markdown
-- Pandoc
-- GitHub
+Asterisk indicates topics covered today.
 
+- Command line (bash)\*
+- Plain Text (Markdown + Pandoc)\*
+- Version Control (Git + GitHub)\*
+- Networking
+- System Administration (AWS + Linux)
+- Programming Language (Python)
+- Stats + algorithms (for data science)
 
 ## Schedule
 
@@ -63,7 +72,5 @@ flex (time permitting) | advanced CLI
 Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.html)
 - [Pro Git Book](https://progit.org/)
 - [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+- [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
-
-
-
