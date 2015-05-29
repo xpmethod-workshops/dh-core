@@ -62,7 +62,7 @@ experience and lead to more advanced applications.</sub>
 
 Asterisk indicates topics covered today.
 
-- [OS & command line](https://github.com/denten/dhnotes/wiki/cli-basics)\*
+- [OS & command line](https://github.com/denten/dhnotes/blob/master/cli-basics.md)\*
 - [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
 - [Version control](https://github.com/denten/dhnotes/wiki/github-workflow) (Git + GitHub)\*
 - Content management (Jekyll or Wordpress)
@@ -78,8 +78,8 @@ Asterisk indicates topics covered today.
 -----------------------|---------------------
 9:30am -- 11:30am      | [os & command line basics](https://github.com/denten/dhnotes/wiki/cli-basics)
 12:00pm -- 1:00pm      | catered lunch
-1:00pm -- 2:00 pm       | [pandoc + markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
-2:00pm -- 4:00 pm       | [Git + GitHub](https://github.com/denten/dhnotes/wiki/github-workflow)
+1:00pm -- 2:00 pm      | [pandoc + markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+2:00pm -- 4:00 pm      | [Git + GitHub](https://github.com/denten/dhnotes/wiki/github-workflow)
 flex (time permitting) | [advanced CLI](https://github.com/denten/dhnotes/wiki/cli-basics)
 
 ## Resources
