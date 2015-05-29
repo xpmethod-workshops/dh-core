@@ -6,8 +6,6 @@ who: "Dennis Tenen (Columbia)"
 
 ---
 
-Hello!
-
 In this workshop we will cover the foundations of critical computing practice
 in the humanities. We'll begin with the basics of files and operating systems,
 plain text and binary formats, plain text, markdown, and rudimentary text
