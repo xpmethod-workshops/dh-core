@@ -47,7 +47,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 Asterisk indicates topics covered today.
 
-- [Command line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md
+- [Command line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
 (bash)\*
 - [Plain Text](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
 (Markdown + Pandoc)\*
