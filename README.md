@@ -15,8 +15,9 @@ analysis using native command line tools.
 
 Visit in person at [Columbia
 English](http://english.columbia.edu/people/profile/453) and
-[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html)  
-Follow on [@dennistenen](https://twitter.com/dennistenen) and star these repos!
+[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html). Follow on
+[@dennistenen](https://twitter.com/dennistenen) and star the repos (upper
+right)!
 
 ## What to do to prepare?
 
