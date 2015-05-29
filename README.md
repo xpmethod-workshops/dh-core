@@ -27,6 +27,7 @@ Install the following:
 - [Git](https://help.github.com/articles/set-up-git/)
 - [Babun](http://babun.github.io/) (Windows only)
 - Latex (BasicTeX for Mac, MiKTeX for Windows, TeX Live for Linux)
+- [Zotero](https://www.zotero.org/)
 
 Create an account on:
 
@@ -60,16 +61,16 @@ experience and lead to more advanced applications.</sub>
 
 Asterisk indicates topics covered today.
 
-- [Command line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
+- [OS and command line](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
 (bash)\*
 - [Plain Text](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
 (Markdown + Pandoc)\*
-- [Version Control](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
+- [Version control](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
 (Git + GitHub)\*
 - Networking
-- System Administration (AWS + Linux)
-- Programming Language (Python)
-- Proejct Management
+- System administration (AWS + Linux)
+- Programming language (Python)
+- Proejct management
 - Stats + algorithms (for data science)
 
 ## Schedule
@@ -77,7 +78,7 @@ Asterisk indicates topics covered today.
 
  time                  | topic
 -----------------------|---------------------
-9:30am -- 11:30am      | [command line basics](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
+9:30am -- 11:30am      | [os and command line basics](https://github.com/denten-workshops/dh-core/blob/master/intro-cli.md)
 12:00pm -- 1:00pm      | catered lunch
 1:00pm - 2:00 pm       | [pandoc + markdown](https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
 2:00pm - 4:00 pm       | [Git + GitHub](https://github.com/denten-workshops/dh-core/blob/master/intro-git.md)
@@ -94,3 +95,4 @@ flex (time permitting) | advanced CLI
 - [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [Data Science at the Command Line](http://datascienceatthecommandline.com/)
 - [Package Control](https://packagecontrol.io/) for Sublime
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
