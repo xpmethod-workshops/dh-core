@@ -25,7 +25,7 @@ Install the following:
 - [plain text editor](http://www.sublimetext.com/2)
 - [Pandoc](http://pandoc.org/installing.html)
 - [Git](https://help.github.com/articles/set-up-git/)
-- [Babun](http://babun.github.io/)(Windows only)
+- [Babun](http://babun.github.io/) (Windows only)
 - Latex (BasicTeX for Mac, MiKTeX for Windows, TeX Live for Linux)
 
 Create an account on:
