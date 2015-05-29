@@ -49,7 +49,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
   automate.
 - Divide big problems into small, modular components.
 - Bootstrap and time well spent.<sup>‡</sup>
-- Keep poking, get help, take notes, comment, annotate, share, remix, train others.
+- Keep poking, get help, take notes, comment, annotate, share, remix, and train others.
 
 <sub>† Because you need to understand what you are automating, well.</sub>  
 <sub>‡ This means investing time into skills that scale with your
