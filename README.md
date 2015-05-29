@@ -46,9 +46,12 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 - If you have to do something more than ~~once~~ a hundred times,<sup>†</sup>
   automate.
 - Divide big problems into small, modular components.
+- Bootstrap and time well spent.<sup>‡</sup>
 - Get help and help others.
 
-<sub>† Because you need to understand what you are automating well.</sub>
+<sub>† Because you need to understand what you are automating well.</sub>  
+<sub>‡</sub>This means investing time into skills that scale with your
+experience and lead to more advanced applications.
 
 ## Cornerstones for DH
 
