@@ -14,7 +14,7 @@ analysis using native command line tools.
 ## About me
 
 Visit in person at [Columbia
-English](http://english.columbia.edu/people/profile/453) and
+English](http://english.columbia.edu/people/profile/453) or
 [xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html). Follow on
 [@dennistenen](https://twitter.com/dennistenen) and star/watch the repos on
 GitHub (upper right)!
