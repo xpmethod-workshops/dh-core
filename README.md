@@ -62,9 +62,7 @@ experience and lead to more advanced applications.</sub>
 Asterisk indicates topics covered today.
 
 - [OS & command line](https://github.com/denten/dhnotes/wiki/cli-basics)\*
-- [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
-https://github.com/denten-workshops/dh-core/blob/master/plain-text.md)
-(Markdown + Pandoc)\*
+- [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)(Markdown + Pandoc)\*
 - [Version control](https://github.com/denten/dhnotes/wiki/github-workflow)(Git + GitHub)\*
 - Networking
 - System administration (AWS + Linux)
