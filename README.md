@@ -11,8 +11,10 @@ in the humanities. We'll begin with the basics of files and operating systems,
 plain text and binary formats, plain text, markdown, and rudimentary text
 analysis using native command line tools.
 
-Stay in touch: [@dennistenen](https://twitter.com/dennistenen),
-[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html)
+## About Me [Columbia English](http://english.columbia.edu/people/profile/453),
+[xpmethod.plaintext.in](http://xpmethod.plaintext.in/strains.html),
+[denten.plaintext.in](http://denten.plaintext.in/strains.html),
+[@dennistenen](https://twitter.com/dennistenen).
 
 ## What to do to prepare?
 
