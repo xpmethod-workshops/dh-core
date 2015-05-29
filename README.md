@@ -18,7 +18,7 @@ Stay in touch: [@dennistenen](https://twitter.com/dennistenen),
 
 Install the following:
 
-- A [plain text editor](http://www.sublimetext.com/2)
+- [plain text editor](http://www.sublimetext.com/2)
 - [Pandoc](http://pandoc.org/installing.html)
 - [Git](https://help.github.com/articles/set-up-git/)
 - [Babun](http://babun.github.io/)(Windows only)
@@ -47,7 +47,7 @@ McIlroy](http://www.faqs.org/docs/artu/ch01s06.html)</sup>
 
 Asterisk indicates topics covered today.
 
-- Command line (bash)\*
+- Command line (bash)\
 - Plain Text (Markdown + Pandoc)\*
 - Version Control (Git + GitHub)\*
 - Networking
