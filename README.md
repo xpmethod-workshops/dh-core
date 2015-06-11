@@ -68,10 +68,11 @@ Asterisk indicates topics covered today.
 - Content management (Jekyll or Wordpress)
 - Networking
 - System administration (AWS + Linux)
-- Programming language (Python)
+- Programming language ([Python][1])
 - Project management
 - Stats + algorithms (for data science)
 
+[1]: https://github.com/denten/dhnotes/blob/master/python/python.md
 ## Schedule
 
  time                  | topic
