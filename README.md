@@ -64,7 +64,7 @@ Asterisk indicates topics covered today.
 
 - [OS & command line](https://github.com/denten/dhnotes/blob/master/cli-basics.md)\*
 - [Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) (Markdown + Pandoc)\*
-- [Version control](https://github.com/denten/dhnotes/wiki/github-workflow) (Git + GitHub)\*
+- [Version control](https://github.com/xpmethod/dhnotes/wiki/GitHub) (Git + GitHub)\*
 - Content management (Jekyll or Wordpress)
 - Networking
 - System administration (AWS + Linux)
